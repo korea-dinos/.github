@@ -1,0 +1,13 @@
+{
+    "name": "Korea Dinos Organization Workflow",
+    "description": "Korea Dinos Organization CI workflow template.",
+    "iconName": "korea",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
