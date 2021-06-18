@@ -1,7 +1,7 @@
 {
     "name": "Ajay Workflow",
     "description": "Ajay CI workflow template.",
-    "icon": "korea-test"
+    "icon": "korea-test",
     "categories": [
         "Go"
     ],
